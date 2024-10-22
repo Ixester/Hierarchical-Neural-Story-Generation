@@ -31,7 +31,3 @@ Este notebook foi desenvolvido para realizar o pré-processamento e treinamento 
    ```
 
 2. Execute cada célula do notebook sequencialmente, iniciando pela coleta de dados, passando pelo pré-processamento e finalizando com o treinamento.
-
----
-
-Este README oferece uma visão geral do conteúdo e das etapas principais do notebook, permitindo que qualquer pessoa entenda o propósito do documento e como utilizá-lo. Se houver algo específico que você gostaria de incluir ou modificar, posso ajustar conforme necessário!
